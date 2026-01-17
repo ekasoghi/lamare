@@ -1,0 +1,8 @@
+{
+  "name": "La Mare Affiliate Tools",
+  "description": "A premium, AI-powered automation platform for Shopee affiliates to elevate their earning elegance through trend scraping, automated social posting, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
